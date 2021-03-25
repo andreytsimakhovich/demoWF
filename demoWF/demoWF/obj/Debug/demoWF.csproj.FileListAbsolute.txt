@@ -1,0 +1,16 @@
+D:\demoWF\demoWF\demoWF\demoWF\obj\Debug\demoWF.csprojAssemblyReference.cache
+D:\demoWF\demoWF\demoWF\demoWF\obj\Debug\demoWF.Properties.Resources.resources
+D:\demoWF\demoWF\demoWF\demoWF\obj\Debug\demoWF.csproj.GenerateResource.cache
+D:\demoWF\demoWF\demoWF\demoWF\obj\Debug\demoWF.csproj.CoreCompileInputs.cache
+D:\demoWF\demoWF\demoWF\demoWF\bin\Debug\demoWF.exe.config
+D:\demoWF\demoWF\demoWF\demoWF\bin\Debug\demoWF.exe
+D:\demoWF\demoWF\demoWF\demoWF\bin\Debug\demoWF.pdb
+D:\demoWF\demoWF\demoWF\demoWF\obj\Debug\demoWF.exe
+D:\demoWF\demoWF\demoWF\demoWF\obj\Debug\demoWF.pdb
+D:\demoWF\demoWF\demoWF\demoWF\bin\Debug\Database.mdf
+D:\demoWF\demoWF\demoWF\demoWF\bin\Debug\Database_log.ldf
+D:\demoWF\demoWF\demoWF\demoWF\obj\Debug\demoWF.Form1.resources
+D:\demoWF\demoWF\demoWF\demoWF\bin\Debug\demoWF.exe.manifest
+D:\demoWF\demoWF\demoWF\demoWF\bin\Debug\demoWF.application
+D:\demoWF\demoWF\demoWF\demoWF\obj\Debug\demoWF.exe.manifest
+D:\demoWF\demoWF\demoWF\demoWF\obj\Debug\demoWF.application
